@@ -1,0 +1,12 @@
+git ignore
+target/
+out/
+build/
+.gradle/
+.idea/
+*.iml
+.DS_Store
+*.user
+*.suo
+*-build/s
+
